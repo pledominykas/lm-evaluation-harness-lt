@@ -1,3 +1,14 @@
+# Fork of Language Model Evaluation Harness with Lithuanian tasks
+The following tasks are added:
+- [lt_truthful_qa](https://huggingface.co/datasets/neurotechnology/lt_thruthful_qa)
+- [lt_arc](https://huggingface.co/datasets/neurotechnology/lt_arc)
+- [lt_winogrande](https://huggingface.co/datasets/neurotechnology/lt_winogrande)
+- [lt_mmlu](https://huggingface.co/datasets/neurotechnology/lt_mmlu)
+- [lt_hellaswag](https://huggingface.co/datasets/neurotechnology/lt_hellaswag)
+- [lt_gsm8k](https://huggingface.co/datasets/neurotechnology/lt_gsm8k)
+
+Task translations are from the ["Open Llama2 Model for the Lithuanian Language"](https://arxiv.org/abs/2408.12963v1) paper.
+
 # Language Model Evaluation Harness
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10256836.svg)](https://doi.org/10.5281/zenodo.10256836)
