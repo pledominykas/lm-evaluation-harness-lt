@@ -1,5 +1,5 @@
 tag:
-  - truthfulqa_lt
+  - truthfulqa
 task: truthfulqa_lt_gen
 dataset_path: neurotechnology/lt_thruthful_qa
 dataset_name: generation

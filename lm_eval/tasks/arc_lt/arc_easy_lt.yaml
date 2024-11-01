@@ -1,5 +1,5 @@
 tag:
-  - ai2_arc_lt
+  - ai2_arc
 task: arc_easy_lt
 dataset_path: neurotechnology/lt_arc
 dataset_name: ARC-Easy
