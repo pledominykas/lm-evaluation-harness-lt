@@ -1,0 +1,7 @@
+"dataset_name": "econometrics"
+"description": "Žemiau pateikiami kelių pasirinkimų klausimai (su atsakymais) apie econometrics.\n\
+  \n"
+"tag": "mmlu_social_sciences_tasks"
+"include": "_default_template_yaml"
+"task": "mmlu_econometrics"
+"task_alias": "econometrics"

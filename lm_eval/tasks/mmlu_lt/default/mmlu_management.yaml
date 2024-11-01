@@ -1,0 +1,7 @@
+"dataset_name": "management"
+"description": "Žemiau pateikiami kelių pasirinkimų klausimai (su atsakymais) apie management.\n\
+  \n"
+"tag": "mmlu_other_tasks"
+"include": "_default_template_yaml"
+"task": "mmlu_management"
+"task_alias": "management"

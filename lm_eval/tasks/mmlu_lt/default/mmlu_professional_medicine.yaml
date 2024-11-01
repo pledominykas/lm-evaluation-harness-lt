@@ -1,0 +1,7 @@
+"dataset_name": "professional_medicine"
+"description": "Žemiau pateikiami kelių pasirinkimų klausimai (su atsakymais) apie professional\
+  \ medicine.\n\n"
+"tag": "mmlu_other_tasks"
+"include": "_default_template_yaml"
+"task": "mmlu_professional_medicine"
+"task_alias": "professional_medicine"

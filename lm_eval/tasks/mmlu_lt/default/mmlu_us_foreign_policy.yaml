@@ -1,0 +1,7 @@
+"dataset_name": "us_foreign_policy"
+"description": "Žemiau pateikiami kelių pasirinkimų klausimai (su atsakymais) apie us\
+  \ foreign policy.\n\n"
+"tag": "mmlu_social_sciences_tasks"
+"include": "_default_template_yaml"
+"task": "mmlu_us_foreign_policy"
+"task_alias": "us_foreign_policy"

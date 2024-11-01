@@ -1,0 +1,7 @@
+"dataset_name": "marketing"
+"description": "Žemiau pateikiami kelių pasirinkimų klausimai (su atsakymais) apie marketing.\n\
+  \n"
+"tag": "mmlu_other_tasks"
+"include": "_default_template_yaml"
+"task": "mmlu_marketing"
+"task_alias": "marketing"

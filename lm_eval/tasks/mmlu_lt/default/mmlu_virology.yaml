@@ -1,0 +1,7 @@
+"dataset_name": "virology"
+"description": "Žemiau pateikiami kelių pasirinkimų klausimai (su atsakymais) apie virology.\n\
+  \n"
+"tag": "mmlu_other_tasks"
+"include": "_default_template_yaml"
+"task": "mmlu_virology"
+"task_alias": "virology"

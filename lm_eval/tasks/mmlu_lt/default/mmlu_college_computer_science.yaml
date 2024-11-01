@@ -1,0 +1,7 @@
+"dataset_name": "college_computer_science"
+"description": "Žemiau pateikiami kelių pasirinkimų klausimai (su atsakymais) apie college\
+  \ computer science.\n\n"
+"tag": "mmlu_stem_tasks"
+"include": "_default_template_yaml"
+"task": "mmlu_college_computer_science"
+"task_alias": "college_computer_science"

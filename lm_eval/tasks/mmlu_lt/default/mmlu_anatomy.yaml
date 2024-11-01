@@ -1,0 +1,7 @@
+"dataset_name": "anatomy"
+"description": "Žemiau pateikiami kelių pasirinkimų klausimai (su atsakymais) apie anatomy.\n\
+  \n"
+"tag": "mmlu_stem_tasks"
+"include": "_default_template_yaml"
+"task": "mmlu_anatomy"
+"task_alias": "anatomy"

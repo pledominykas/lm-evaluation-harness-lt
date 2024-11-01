@@ -1,0 +1,7 @@
+"dataset_name": "professional_psychology"
+"description": "Žemiau pateikiami kelių pasirinkimų klausimai (su atsakymais) apie professional\
+  \ psychology.\n\n"
+"tag": "mmlu_social_sciences_tasks"
+"include": "_default_template_yaml"
+"task": "mmlu_professional_psychology"
+"task_alias": "professional_psychology"

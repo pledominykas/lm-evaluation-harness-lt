@@ -1,0 +1,7 @@
+"dataset_name": "conceptual_physics"
+"description": "Žemiau pateikiami kelių pasirinkimų klausimai (su atsakymais) apie conceptual\
+  \ physics.\n\n"
+"tag": "mmlu_stem_tasks"
+"include": "_default_template_yaml"
+"task": "mmlu_conceptual_physics"
+"task_alias": "conceptual_physics"

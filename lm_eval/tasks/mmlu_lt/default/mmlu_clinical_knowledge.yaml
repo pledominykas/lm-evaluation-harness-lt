@@ -1,0 +1,7 @@
+"dataset_name": "clinical_knowledge"
+"description": "Žemiau pateikiami kelių pasirinkimų klausimai (su atsakymais) apie clinical\
+  \ knowledge.\n\n"
+"tag": "mmlu_other_tasks"
+"include": "_default_template_yaml"
+"task": "mmlu_clinical_knowledge"
+"task_alias": "clinical_knowledge"

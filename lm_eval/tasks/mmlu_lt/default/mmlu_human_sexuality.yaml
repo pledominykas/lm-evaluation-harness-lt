@@ -1,0 +1,7 @@
+"dataset_name": "human_sexuality"
+"description": "Žemiau pateikiami kelių pasirinkimų klausimai (su atsakymais) apie human\
+  \ sexuality.\n\n"
+"tag": "mmlu_social_sciences_tasks"
+"include": "_default_template_yaml"
+"task": "mmlu_human_sexuality"
+"task_alias": "human_sexuality"

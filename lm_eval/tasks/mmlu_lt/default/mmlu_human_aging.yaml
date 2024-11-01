@@ -1,0 +1,7 @@
+"dataset_name": "human_aging"
+"description": "Žemiau pateikiami kelių pasirinkimų klausimai (su atsakymais) apie human\
+  \ aging.\n\n"
+"tag": "mmlu_other_tasks"
+"include": "_default_template_yaml"
+"task": "mmlu_human_aging"
+"task_alias": "human_aging"

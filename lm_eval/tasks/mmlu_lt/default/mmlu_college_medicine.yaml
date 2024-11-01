@@ -1,0 +1,7 @@
+"dataset_name": "college_medicine"
+"description": "Žemiau pateikiami kelių pasirinkimų klausimai (su atsakymais) apie college\
+  \ medicine.\n\n"
+"tag": "mmlu_other_tasks"
+"include": "_default_template_yaml"
+"task": "mmlu_college_medicine"
+"task_alias": "college_medicine"

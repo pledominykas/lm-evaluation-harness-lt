@@ -1,0 +1,7 @@
+"dataset_name": "moral_scenarios"
+"description": "Žemiau pateikiami kelių pasirinkimų klausimai (su atsakymais) apie moral\
+  \ scenarios.\n\n"
+"tag": "mmlu_humanities_tasks"
+"include": "_default_template_yaml"
+"task": "mmlu_moral_scenarios"
+"task_alias": "moral_scenarios"

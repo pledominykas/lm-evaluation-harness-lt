@@ -1,0 +1,7 @@
+"dataset_name": "philosophy"
+"description": "Žemiau pateikiami kelių pasirinkimų klausimai (su atsakymais) apie philosophy.\n\
+  \n"
+"tag": "mmlu_humanities_tasks"
+"include": "_default_template_yaml"
+"task": "mmlu_philosophy"
+"task_alias": "philosophy"

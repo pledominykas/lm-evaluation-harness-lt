@@ -1,0 +1,7 @@
+"dataset_name": "formal_logic"
+"description": "Žemiau pateikiami kelių pasirinkimų klausimai (su atsakymais) apie formal\
+  \ logic.\n\n"
+"tag": "mmlu_humanities_tasks"
+"include": "_default_template_yaml"
+"task": "mmlu_formal_logic"
+"task_alias": "formal_logic"
